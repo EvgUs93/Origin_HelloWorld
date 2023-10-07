@@ -1,0 +1,15 @@
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\bin\Debug\net6.0\Example_hello_world.exe
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\bin\Debug\net6.0\Example_hello_world.deps.json
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\bin\Debug\net6.0\Example_hello_world.runtimeconfig.json
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\bin\Debug\net6.0\Example_hello_world.dll
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\bin\Debug\net6.0\Example_hello_world.pdb
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.csproj.AssemblyReference.cache
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.AssemblyInfoInputs.cache
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.AssemblyInfo.cs
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.csproj.CoreCompileInputs.cache
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.dll
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\refint\Example_hello_world.dll
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.pdb
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\Example_hello_world.genruntimeconfig.cache
+C:\Users\EvGus93\Desktop\Учеба\Знакомство с C##\Лекции\Лекция1\Example\Example_hello_world\obj\Debug\net6.0\ref\Example_hello_world.dll
